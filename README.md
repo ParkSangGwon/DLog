@@ -11,7 +11,6 @@ it works for only DEBUG mode
 ##How to use
 
 1. make Base Application class in your project
-3. 
 ```java
 public class BaseApplication extends Application {
 ...
@@ -48,16 +47,17 @@ public static boolean DEBUG = false;
 	
 }
 ```
-
+2. Use it anywhere like this:
 AA.java
-
+```java
 public void test(){
 
 Dlog.d("this is log");
 
 }
+```java
 
 
+3. in logcat, you can see like this log
 
-in logcat, you can see like this log
-[AA][test]this is log
+'[AA][test]this is log'
