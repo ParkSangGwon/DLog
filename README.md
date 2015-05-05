@@ -8,11 +8,11 @@ it works for only DEBUG mode
 **when you publish to googleplay**
 - log.xx() will not show nowhere
 
-##Usage
+##How to use
 
 1. make Base Application class in your project
-2. in Application class
 3. 
+```java
 public class BaseApplication extends Application {
 ...
 public static boolean DEBUG = false;
@@ -46,7 +46,8 @@ public static boolean DEBUG = false;
 		return debuggable;
 	}
 	
-	
+}
+```
 
 AA.java
 
