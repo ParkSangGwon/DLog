@@ -48,6 +48,8 @@ public static boolean DEBUG = false;
 }
 ```
 
+
+
 - Use it anywhere like this:
 
 AA.java
@@ -59,6 +61,8 @@ Dlog.d("this is log");
 
 }
 ```
+
+
 
 
 - in logcat, you can see like this log
