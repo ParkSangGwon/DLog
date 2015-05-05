@@ -1,5 +1,6 @@
-# DLog is Log for Android
+# DLog 
 
+Dlog is useful log for android log.
 it works for only DEBUG mode
 
 **when you develop**
