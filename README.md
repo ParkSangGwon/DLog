@@ -47,15 +47,18 @@ public static boolean DEBUG = false;
 	
 }
 ```
+
 2. Use it anywhere like this:
+
 AA.java
+
 ```java
 public void test(){
 
 Dlog.d("this is log");
 
 }
-```java
+```
 
 
 3. in logcat, you can see like this log
