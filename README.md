@@ -63,6 +63,5 @@ Dlog.d("this is log");
 
 - in logcat, you can see like this log
 
-'[AA][test]this is log'
+`[AA][test]this is log`
 
-`Google Material Design Icons`
